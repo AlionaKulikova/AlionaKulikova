@@ -18,7 +18,7 @@
 </div>
   
  
-  <h2> Мои контакты<h2>  
+  <h2 align="left"> Мои контакты<h2>  
 <div align="left">
 
 <div align="left">

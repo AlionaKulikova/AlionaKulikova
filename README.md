@@ -24,7 +24,7 @@
 
 - <img src="https://static.tildacdn.com/tild6661-3337-4233-a336-353530363538/telegram-1.png" align="center" style="width: 2%" /> @AlionaVladimirovna
 - ✉️ kulikovaaliona888@yandex.ru
-- <img src="https://w7.pngwing.com/pngs/328/714/png-transparent-github-media-social-square-miu-square-black-social-icon.png" align="center" style="width: 2%" /> https://github.com/AlionaKulikova/AlionaKulikova/
+- <img src="https://w7.pngwing.com/pngs/328/714/png-transparent-github-media-social-square-miu-square-black-social-icon.png" align="center" style="width: 2%" /> https://github.com/AlionaKulikova/
   
 </div> 
   

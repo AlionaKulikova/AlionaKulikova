@@ -1,5 +1,5 @@
 ### Привет! 👋  Меня зовут Алёна!
-# Я начинающий frontend разработчик.
+### Я начинающий frontend разработчик.
 
 <!--
 **AlionaKulikova/AlionaKulikova** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

@@ -1,9 +1,7 @@
 ### Привет! 👋  Меня зовут Алёна!
 ### Я начинающий frontend разработчик.
 
-<div align="center">
-<img src="https://cdn-edge.kwork.ru/pics/t3/38/25501448-63fb7416add46.jpg" align="center" style="width: 30%" />
-</div>  
+
   
 
 <br/>  

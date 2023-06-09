@@ -5,6 +5,10 @@
 <img src="https://sun9-24.userapi.com/impg/VzVUDRp2x4OYZIXmBiME8XIujMgwygoQeeYyQA/JD_oR_xqjEE.jpg?size=1917x783&quality=95&sign=ea9996aa9a39099cd63e7290d51b15ac&type=album" align="center" style="width: 50%" />
   
   </div>
+  
+  ## Connect with me  
+<div align="center">
+
 <div align="left">
   
 - <img src="https://static.tildacdn.com/tild6661-3337-4233-a336-353530363538/telegram-1.png" align="center" style="width: 2%" /> @AlionaVladimirovna
@@ -13,7 +17,8 @@
 </div>
   
   
-  
+</div>  
+  <br/>
   
 <div align="left">
   

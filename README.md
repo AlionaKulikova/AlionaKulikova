@@ -6,8 +6,8 @@
   
   </div>
   
-  ## Connect with me  
-<div align="center">
+  ## Мои контакты  
+<div align="left">
 
 <div align="left">
   

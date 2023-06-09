@@ -1,7 +1,9 @@
 ### Привет! 👋 
 <div>
-<div align="center">
-<img src="https://w7.pngwing.com/pngs/499/191/png-transparent-robot-humanoid-three-dimensional-space-3d-computer-graphics-graphy-robotics-electronics-3d-computer-graphics-technology.png" align="center" style="width: 100%" />
+
+<div align="left">
+<img src="https://sun9-6.userapi.com/impg/Ws5e52ATUf--sC1ESXQR1m5hiZOlCHOyYfy6Xw/rUL6hXDt-GM.jpg?size=309x387&quality=95&sign=ccccc4ef64cfab45bee276a552dd01e0&type=albumgy.png" align="center" style="width: 30%" />
+  
 </div>  
   
 

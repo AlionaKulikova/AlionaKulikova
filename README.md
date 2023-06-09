@@ -2,7 +2,7 @@
 <div>
 
 <div align="left">
-<img src="https://sun9-24.userapi.com/impg/VzVUDRp2x4OYZIXmBiME8XIujMgwygoQeeYyQA/JD_oR_xqjEE.jpg?size=1917x783&quality=95&sign=ea9996aa9a39099cd63e7290d51b15ac&type=album" align="center" style="width: 100%" />
+<img src="https://sun9-24.userapi.com/impg/VzVUDRp2x4OYZIXmBiME8XIujMgwygoQeeYyQA/JD_oR_xqjEE.jpg?size=1917x783&quality=95&sign=ea9996aa9a39099cd63e7290d51b15ac&type=album" align="center" style="width: 50%" />
   
 </div>  
   

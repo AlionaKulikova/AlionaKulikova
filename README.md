@@ -5,21 +5,24 @@
 <img src="https://sun9-24.userapi.com/impg/VzVUDRp2x4OYZIXmBiME8XIujMgwygoQeeYyQA/JD_oR_xqjEE.jpg?size=1917x783&quality=95&sign=ea9996aa9a39099cd63e7290d51b15ac&type=album" align="center" style="width: 50%" />
   
   </div>
-
-
-
-
-  
-
-<br/>  
 <div align="left">
+  
+- <img src="https://sun9-24.userapi.com/impg/VzVUDRp2x4OYZIXmBiME8XIujMgwygoQeeYyQA/JD_oR_xqjEE.jpg?size=1917x783&quality=95&sign=ea9996aa9a39099cd63e7290d51b15ac&type=album" align="center" style="width: 10%" /> @AlionaVladimirovna
+- ✉️ kulikovaaliona888@yandex.ru
+  
+</div>
+  
+  
+  
+  
+<div align="left">
+  
 - 🔭В настоящее время я работаю над проектом для строительной организации  
   
-
 - 🌱 Сейчас изучаю SQL и PHP  
   
-
-- ⚡Мне нравятся роботы))  
+- ⚡Мне нравятся роботы))
+  
 </div>
 
 ## My Skill Set  

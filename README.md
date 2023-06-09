@@ -1,5 +1,11 @@
-### Привет! 👋  Меня зовут Алёна!
-### Я начинающий frontend разработчик.
+### Привет! 👋 
+<div align="center">
+<img src="https://img.freepik.com/premium-photo/3d-rendering-robot-assistant-hand-up-for-greeting_493806-13855.jpg?w=826" align="center" style="width: 30%" />
+</div>  
+  
+
+
+### Меня зовут Алёна! Я начинающий frontend разработчик.
 
 
   

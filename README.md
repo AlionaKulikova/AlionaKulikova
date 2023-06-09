@@ -17,7 +17,7 @@
   
 </div>
   
-  <div align = "left">
+ 
   ## Мои контакты  
 <div align="left">
 
@@ -30,7 +30,7 @@
   
   
 </div> 
-  </div>
+  
   <br/>
   
 

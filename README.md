@@ -1,7 +1,7 @@
 ### Привет! 👋 
 <div>
 <div align="left">
-<img src="[https://sun9-54.userapi.com/impg/7Z063bX66HN3-Vz51lM5KT7-TVRfQUUvKmgh3g/mqbra6OZfFo.jpg?size=1020x1349&quality=95&sign=129813605bf73890b0684bbf2e15c653&type=album](https://sun9-71.userapi.com/impg/hMAxq26m55BygPfrQ0QUNSleBLbEi-wSsYJ0hA/Mwnw8JVRFpQ.jpg?size=658x832&quality=95&sign=4255ab5c444ec347c0247755a36bbad4&type=album)" align="center" style="width: 30%" />
+<img src="https://sun9-71.userapi.com/impg/hMAxq26m55BygPfrQ0QUNSleBLbEi-wSsYJ0hA/Mwnw8JVRFpQ.jpg?size=658x832&quality=95&sign=4255ab5c444ec347c0247755a36bbad4&type=album" align="center" style="width: 30%" />
 </div> 
   
 

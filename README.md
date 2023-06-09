@@ -1,12 +1,16 @@
 ### Привет! 👋 
-<div align="center">
-<img src="https://img.freepik.com/premium-photo/3d-rendering-robot-assistant-hand-up-for-greeting_493806-13855.jpg?w=826" align="center" style="width: 30%" />
-</div>  
+<div>
+<div align="left">
+<img src="https://sun9-54.userapi.com/impg/7Z063bX66HN3-Vz51lM5KT7-TVRfQUUvKmgh3g/mqbra6OZfFo.jpg?size=1020x1349&quality=95&sign=129813605bf73890b0684bbf2e15c653&type=album" align="center" style="width: 30%" />
+</div> 
   
 
 
-### Меня зовут Алёна! Я начинающий frontend разработчик.
-
+### 
+<div align="right">
+  Меня зовут Алёна! Я начинающий frontend разработчик.
+</div>
+</div>
 
   
 

@@ -21,12 +21,11 @@
   <h2 align="left"> Мои контакты<h2>  
 <div align="left">
 
-<div align="left">
   
-- <img src="https://static.tildacdn.com/tild6661-3337-4233-a336-353530363538/telegram-1.png" align="center" style="width: 2%" /> @AlionaVladimirovna
+- <img src="https://static.tildacdn.com/tild6661-3337-4233-a336-353530363538/telegram-1.png" align="center" style="width: 2%" /><p> @AlionaVladimirovna</p>
 - ✉️ kulikovaaliona888@yandex.ru
   
-</div>
+
   
   
 </div> 

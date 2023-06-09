@@ -32,7 +32,7 @@
   
 
 
-## My Skill Set  
+## Мои навыки  
 <table align="left"><tr><td valign="top" width="33%">
 
 

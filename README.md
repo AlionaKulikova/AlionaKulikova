@@ -30,8 +30,9 @@
   <br/>
   
 
-
+<div align="left">
 ## Мои навыки  
+ </div>
 <table align="left"><tr><td valign="top" width="33%">
 
 

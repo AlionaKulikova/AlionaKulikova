@@ -31,7 +31,7 @@
   
 
 <div align="left">
-## Мои навыки  
+ Мои навыки  
  </div>
 <table align="left"><tr><td valign="top" width="33%">
 

@@ -19,16 +19,17 @@
  <h2 align="left">Мои контакты</h2> 
    
 <div align="left">
+	
  <a href="https://github.com/AlionaKulikova" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
 	
  
-<a href="mailto:serzhxarin@yandex.ru">
-			   <img src="https://sun9-22.userapi.com/impg/hUDUqCni-k_8xKXQnosuaZ_nYPVDhfvU1E-1vg/JhNi-v4yNGo.jpg?size=464x350&quality=95&sign=b2e6826eda464ac9eabca69551cdefa1&type=album"  style="width: 2%"> 
-	 </a> 
+<a href="mailto:alionakulikova888@yandex.ru">
+<img src="https://sun9-22.userapi.com/impg/hUDUqCni-k_8xKXQnosuaZ_nYPVDhfvU1E-1vg/JhNi-v4yNGo.jpg?size=464x350&quality=95&sign=b2e6826eda464ac9eabca69551cdefa1&type=album" alt=почта  style="width: 2%"> 
+</a> 
 	
-
+</div> 
 
  
  
@@ -45,7 +46,7 @@
 - ✉️ kulikovaaliona888@yandex.ru
 - <img src="https://w7.pngwing.com/pngs/328/714/png-transparent-github-media-social-square-miu-square-black-social-icon.png" align="center" style="width: 2%" /> https://github.com/AlionaKulikova/
   
-</div> 
+
   
   <br/>
   

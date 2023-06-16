@@ -31,12 +31,7 @@
 	
 	
 </div> 
-<div>
- <a href="https://t.me/AlionaVladimirovna">
-	<img src="https://static.tildacdn.com/tild6661-3337-4233-a336-353530363538/telegram-1.png" align="center" style="width: 2%" /> @AlionaVladimirovna
-		</a>
- 
- </div>
+
 
   
 
@@ -47,7 +42,12 @@
  <h2  align="left" >Мои навыки</h2> 
 <table align="left"><tr><td valign="top" width="33%">
 
-
+<div>
+ <a href="https://t.me/AlionaVladimirovna">
+	<img src="https://static.tildacdn.com/tild6661-3337-4233-a336-353530363538/telegram-1.png" align="center" style="width: 2%" /> @AlionaVladimirovna
+		</a>
+ 
+ </div>
 
 ### Frontend  
 <div align="left">  

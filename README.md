@@ -23,7 +23,7 @@
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
  <p>
-        <img src="imgs/emails.ico"  width="30" height="30" alt="Отправить"> 
+        <img src="imgs/emails.ico"  width="30" height="30"> 
 		   <a href="mailto:serzhxarin@yandex.ru">Написать нам письмо</a>
 	     
 	  </p>

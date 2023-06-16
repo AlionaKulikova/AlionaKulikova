@@ -18,17 +18,22 @@
   
  <h2 align="left" style="margin: 0px;>Мои контакты</h2> 
    
-<div align="left">
+<div align="left" >
 	
  <a href="https://github.com/AlionaKulikova" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-left: 5px;" />
+<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-left: 10px;" />
 </a>
 	
  
 <a href="mailto:alionakulikova888@yandex.ru">
-<img src="https://sun9-22.userapi.com/impg/hUDUqCni-k_8xKXQnosuaZ_nYPVDhfvU1E-1vg/JhNi-v4yNGo.jpg?size=464x350&quality=95&sign=b2e6826eda464ac9eabca69551cdefa1&type=album" alt=почта  style="width: 2%" style="margin-left: 5px;> 
+<img src="https://sun9-22.userapi.com/impg/hUDUqCni-k_8xKXQnosuaZ_nYPVDhfvU1E-1vg/JhNi-v4yNGo.jpg?size=464x350&quality=95&sign=b2e6826eda464ac9eabca69551cdefa1&type=album" alt=почта  style="width: 2%" style="margin-left: 10px;"> 
 </a> 
 	
+ <a href="https://t.me/AlionaVladimirovna">
+	<img src="https://static.tildacdn.com/tild6661-3337-4233-a336-353530363538/telegram-1.png" align="center" style="width: 2%" style="margin-left: 10px;"/>
+</a>
+ 
+ 
 	
 </div> 
 
@@ -42,12 +47,7 @@
  <h2  align="left" >Мои навыки</h2> 
 <table align="left"><tr><td valign="top" width="33%">
 
-<div>
- <a href="https://t.me/AlionaVladimirovna">
-	<img src="https://static.tildacdn.com/tild6661-3337-4233-a336-353530363538/telegram-1.png" align="center" style="width: 2%" /> @AlionaVladimirovna
-		</a>
- 
- </div>
+
 
 ### Frontend  
 <div align="left">  

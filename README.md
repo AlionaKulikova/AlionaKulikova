@@ -72,11 +72,12 @@
  <h2 align="left">Github Stats</h2> 
 	
 <table align="left"><tr><td valign="top" width="33%">
-<div align="left">  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=AlionaKulikova&show_icons=true&count_private=true&hide_border=true" align="center" /></div> 
-</div>
-	<div align="right">
+
+	<div align="left">
 	<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlionaKulikova&hide_border=true&layout=compact" align="center" /></div>  
+</div>
+	<div align="left">  
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=AlionaKulikova&show_icons=true&count_private=true&hide_border=true" align="center" /></div> 
 </div>
 	
 </table>  

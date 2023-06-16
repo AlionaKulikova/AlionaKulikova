@@ -25,11 +25,11 @@
 </a>
 	
 <a href="mailto:alionakulikova888@yandex.ru">
-<img src="https://sun9-22.userapi.com/impg/hUDUqCni-k_8xKXQnosuaZ_nYPVDhfvU1E-1vg/JhNi-v4yNGo.jpg?size=464x350&quality=95&sign=b2e6826eda464ac9eabca69551cdefa1&type=album" alt=почта  style="width: 4%"> 
+<img src="https://sun9-59.userapi.com/impg/3VCA1FPXiECgmA3hjud7J0Fb9XZFjtKergnp1Q/iPCFrSBfzA8.jpg?size=562x115&quality=95&sign=f7030e18a66b756d6b300d057cd80d13&type=album" alt=почта  style="width: 20%"> 
 </a> 
 
  <a href="https://t.me/AlionaVladimirovna">
-	<img src="https://static.tildacdn.com/tild6661-3337-4233-a336-353530363538/telegram-1.png"   alt=telegram  style="width: 3%" />
+	<img src="https://sun9-71.userapi.com/impg/Rj-nKFDoalA5hRLQosQ4MwVFcGK8Gppp4i1Wtg/ZO9ZeR1tBbA.jpg?size=568x131&quality=95&sign=2f16fbc8f65f42a4d575b17495301d04&type=album"   alt=telegram  style="width: 20%" />
 </a>
  
 	

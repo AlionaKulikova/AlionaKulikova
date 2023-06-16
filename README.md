@@ -20,7 +20,7 @@
    
 <div align="left" >
 	
- <a href="https://github.com/AlionaKulikova" target="_blank"  align="left"x">
+ <a href="https://github.com/AlionaKulikova" target="_blank"  align="left">
 <img src=https://sun9-31.userapi.com/impg/Fk4lDnuQWmPvJuwCP4IxEycFAQ3dsliFwvbevg/sTwIQiZT4b0.jpg?size=2560x2555&quality=95&sign=e7b361cdbc814ca91d0fbb67b952b03a&type=album alt=github   style="width: 5%" />
 </a>
 	

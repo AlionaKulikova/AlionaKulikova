@@ -21,7 +21,7 @@
 <div align="left" >
 	
  <a href="https://github.com/AlionaKulikova" target="_blank">
-<img src=https://sun9-58.userapi.com/impg/dVmVa1SDPnLkNJA2FRezoUXfIJqUusVzBPx09g/Svhl-45Qmxg.jpg?size=560x125&quality=95&sign=21180a86717816242c6a5c2b9c20cbd2&type=album alt=github   style="width: 4%" />
+<img src=https://sun9-58.userapi.com/impg/dVmVa1SDPnLkNJA2FRezoUXfIJqUusVzBPx09g/Svhl-45Qmxg.jpg?size=560x125&quality=95&sign=21180a86717816242c6a5c2b9c20cbd2&type=album alt=github   style="width: 100%" />
 </a>
 	
 <a href="mailto:alionakulikova888@yandex.ru">

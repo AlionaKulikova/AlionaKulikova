@@ -29,7 +29,7 @@
 </a> 
 
  <a href="https://t.me/AlionaVladimirovna">
-	<img src="https://static.tildacdn.com/tild6661-3337-4233-a336-353530363538/telegram-1.png"   alt=telegram  style="width: 4%" />
+	<img src="https://static.tildacdn.com/tild6661-3337-4233-a336-353530363538/telegram-1.png"   alt=telegram  style="width: 3%" />
 </a>
  
 	

@@ -23,11 +23,9 @@
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
  
-  <p>
-	  
-        <img src="https://static.tildacdn.com/tild6661-3337-4233-a336-353530363538/telegram-1.png"  width="30" height="30" alt="Отправить"> 
-
-		   <a href="mailto:kulikovaaliona888@yandex.ru">Написать мне письмо</a>
+ <p>
+        <img src="imgs/emails.ico"  width="30" height="30" alt="Отправить"> 
+		   <a href="mailto:serzhxarin@yandex.ru">Написать нам письмо</a>
 	     
 	  </p>
 

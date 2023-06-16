@@ -21,12 +21,12 @@
 <div align="left">
 	
  <a href="https://github.com/AlionaKulikova" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
+<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-left: 5px;" />
 </a>
 	
  
 <a href="mailto:alionakulikova888@yandex.ru">
-<img src="https://sun9-22.userapi.com/impg/hUDUqCni-k_8xKXQnosuaZ_nYPVDhfvU1E-1vg/JhNi-v4yNGo.jpg?size=464x350&quality=95&sign=b2e6826eda464ac9eabca69551cdefa1&type=album" alt=почта  style="width: 2%" style="margin-top: 0px;> 
+<img src="https://sun9-22.userapi.com/impg/hUDUqCni-k_8xKXQnosuaZ_nYPVDhfvU1E-1vg/JhNi-v4yNGo.jpg?size=464x350&quality=95&sign=b2e6826eda464ac9eabca69551cdefa1&type=album" alt=почта  style="width: 2%" style="margin-left: 5px;> 
 </a> 
 	<a href="mailto: @AlionaVladimirovna">
 	<img src="https://static.tildacdn.com/tild6661-3337-4233-a336-353530363538/telegram-1.png" align="center" style="width: 2%" /> @AlionaVladimirovna

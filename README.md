@@ -29,6 +29,7 @@
 <img src="https://sun9-22.userapi.com/impg/hUDUqCni-k_8xKXQnosuaZ_nYPVDhfvU1E-1vg/JhNi-v4yNGo.jpg?size=464x350&quality=95&sign=b2e6826eda464ac9eabca69551cdefa1&type=album" alt=почта  style="width: 2%" style="margin-top: 0px;> 
 </a> 
 	
+	<img src="https://static.tildacdn.com/tild6661-3337-4233-a336-353530363538/telegram-1.png" align="center" style="width: 2%" /> @AlionaVladimirovna
 </div> 
 
  
@@ -42,9 +43,8 @@
  
  
 
-- <img src="https://static.tildacdn.com/tild6661-3337-4233-a336-353530363538/telegram-1.png" align="center" style="width: 2%" /> @AlionaVladimirovna
-- ✉️ kulikovaaliona888@yandex.ru
-- <img src="https://w7.pngwing.com/pngs/328/714/png-transparent-github-media-social-square-miu-square-black-social-icon.png" align="center" style="width: 2%" /> https://github.com/AlionaKulikova/
+
+
   
 
   

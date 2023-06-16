@@ -26,7 +26,7 @@
 	
  
 <a href="mailto:alionakulikova888@yandex.ru">
-<img src="https://sun9-22.userapi.com/impg/hUDUqCni-k_8xKXQnosuaZ_nYPVDhfvU1E-1vg/JhNi-v4yNGo.jpg?size=464x350&quality=95&sign=b2e6826eda464ac9eabca69551cdefa1&type=album" alt=почта  style="width: 2%" style="margin-bottom: 6px;> 
+<img src="https://sun9-22.userapi.com/impg/hUDUqCni-k_8xKXQnosuaZ_nYPVDhfvU1E-1vg/JhNi-v4yNGo.jpg?size=464x350&quality=95&sign=b2e6826eda464ac9eabca69551cdefa1&type=album" alt=почта  style="width: 2%" style="margin-bottom: 8px;> 
 </a> 
 	
 </div> 

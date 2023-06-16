@@ -66,10 +66,10 @@
 	
   <br/>
 	
-	 <h2  align="left" >Github Stats  </h2> 
 <table align="left"><tr><td valign="top" width="33%">
 
 
+	 <h2  align="left" >Github Stats  </h2> 
 
 
 <div align="left">  

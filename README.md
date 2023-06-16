@@ -24,7 +24,7 @@
 </a>
  
  <p>
-        
+        <img src="imgs/emails.ico"  width="30" height="30" alt="Отправить"> 
 		   <a href="mailto:serzhxarin@yandex.ru">Написать нам письмо</a>
 	     
 	  </p>

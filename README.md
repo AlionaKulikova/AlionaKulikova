@@ -67,7 +67,7 @@
 	 <br/>
 	 <br/>
 	 <br/>
-	<div  align="left">
+	
  <h2 align="left">Github Stats</h2> 	
 <table align="left"><tr><td valign="top" width="33%">
 
@@ -79,8 +79,6 @@
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=AlionaKulikova&show_icons=true&count_private=true&hide_border=true" align="center" /></div> 
 </div>
 </table>  
-
-	</div>
 	
 	
  

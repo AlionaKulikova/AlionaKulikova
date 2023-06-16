@@ -20,16 +20,16 @@
    
 <div align="left" >
 	
- <a href="https://github.com/AlionaKulikova" target="_blank" style="margin-left: 30px">
+ <a href="https://github.com/AlionaKulikova" target="_blank" style="margin-left: 100px">
 <img src=https://sun9-31.userapi.com/impg/Fk4lDnuQWmPvJuwCP4IxEycFAQ3dsliFwvbevg/sTwIQiZT4b0.jpg?size=2560x2555&quality=95&sign=e7b361cdbc814ca91d0fbb67b952b03a&type=album alt=github   style="width: 2%" />
 </a>
 	
  
-<a href="mailto:alionakulikova888@yandex.ru" style="margin-left: 30px">
+<a href="mailto:alionakulikova888@yandex.ru" style="margin-left: 100px">
 <img src="https://sun9-22.userapi.com/impg/hUDUqCni-k_8xKXQnosuaZ_nYPVDhfvU1E-1vg/JhNi-v4yNGo.jpg?size=464x350&quality=95&sign=b2e6826eda464ac9eabca69551cdefa1&type=album" alt=почта  style="width: 2%"> 
 </a> 
 	
- <a href="https://t.me/AlionaVladimirovna" style="margin-left: 30px">
+ <a href="https://t.me/AlionaVladimirovna" style="margin-left: 100px">
 	<img src="https://static.tildacdn.com/tild6661-3337-4233-a336-353530363538/telegram-1.png" align="center" style="width: 3%" />
 </a>
  

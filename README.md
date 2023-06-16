@@ -60,11 +60,11 @@
 <a href="https://www.adobe.com/in/products/dreamweaver.html" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/adobedreamweaver.png" alt="Dreamweaver " height="50" /></a>  
 </div>
 </table>  
-</div>
+
+	
+	
 	
   <br/>
-	
-	
 	
 	 <h2  align="left" >Github Stats  </h2> 
 <table align="left"><tr><td valign="top" width="33%">
@@ -76,7 +76,7 @@
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=AlionaKulikova&show_icons=true&count_private=true&hide_border=true" align="center" /></div> 
 </div>
 </table>  
-</div>
+
 	
 	
 	

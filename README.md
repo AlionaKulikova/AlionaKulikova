@@ -21,7 +21,7 @@
 <div align="left" >
 	
  <a href="https://github.com/AlionaKulikova" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-left: 10px;" />
+<img src=https://sun9-31.userapi.com/impg/Fk4lDnuQWmPvJuwCP4IxEycFAQ3dsliFwvbevg/sTwIQiZT4b0.jpg?size=2560x2555&quality=95&sign=e7b361cdbc814ca91d0fbb67b952b03a&type=album alt=github   style="width: 2%" style="margin-left: 10px;" />
 </a>
 	
  

@@ -24,7 +24,8 @@
 </a>
  
   <p>
-	  ✉️ 
+	  
+        <img src="https://static.tildacdn.com/tild6661-3337-4233-a336-353530363538/telegram-1.png"  width="30" height="30" alt="Отправить"> 
 
 		   <a href="mailto:kulikovaaliona888@yandex.ru">Написать мне письмо</a>
 	     

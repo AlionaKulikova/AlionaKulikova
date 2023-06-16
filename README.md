@@ -21,15 +21,15 @@
 <div align="left" >
 	
  <a href="https://github.com/AlionaKulikova" target="_blank">
-<img src=https://sun9-25.userapi.com/impg/wLWdS6lrR99IVPQl_D708D866fKifnrJMSXfNA/iOQdcX50CuE.jpg?size=624x120&quality=95&sign=c49595002418745e49a0c72c2dd85f2f&type=album alt=github   style="width: 25%" />
+<img src=https://sun9-25.userapi.com/impg/wLWdS6lrR99IVPQl_D708D866fKifnrJMSXfNA/iOQdcX50CuE.jpg?size=624x120&quality=95&sign=c49595002418745e49a0c72c2dd85f2f&type=album alt=github   style="width: 20%" />
 </a>
 	
 <a href="mailto:alionakulikova888@yandex.ru"  target="_blank">
-<img src="https://sun9-64.userapi.com/impg/OsyaqQX7-CESzacbrL0Y9qMQWPhQbmW_wZefbQ/XmUjX9eCKTs.jpg?size=624x120&quality=95&sign=3b5526958682fb2c82fcf0202c2292cb&type=album" alt=почта  style="width: 25%"> 
+<img src="https://sun9-64.userapi.com/impg/OsyaqQX7-CESzacbrL0Y9qMQWPhQbmW_wZefbQ/XmUjX9eCKTs.jpg?size=624x120&quality=95&sign=3b5526958682fb2c82fcf0202c2292cb&type=album" alt=почта  style="width: 20%"> 
 </a> 
 
  <a href="https://t.me/AlionaVladimirovna"  target="_blank">
-	<img src="https://sun9-34.userapi.com/impg/_kq_P8CAy_YB60F0rsQFGyWaYXvl_JM6JlEnng/NtVd6q5rh5o.jpg?size=624x120&quality=95&sign=d27d77c945802db3affa50d1f378e020&type=album"   alt=telegram  style="width: 25%" />
+	<img src="https://sun9-34.userapi.com/impg/_kq_P8CAy_YB60F0rsQFGyWaYXvl_JM6JlEnng/NtVd6q5rh5o.jpg?size=624x120&quality=95&sign=d27d77c945802db3affa50d1f378e020&type=album"   alt=telegram  style="width: 20%" />
 </a>
  
 	

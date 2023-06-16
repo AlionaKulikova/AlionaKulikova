@@ -23,7 +23,7 @@
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
  <p>
-        <img src="https://sun9-22.userapi.com/impg/hUDUqCni-k_8xKXQnosuaZ_nYPVDhfvU1E-1vg/JhNi-v4yNGo.jpg?size=464x350&quality=95&sign=b2e6826eda464ac9eabca69551cdefa1&type=album"  width="30" height="30"> 
+        <img src="https://sun9-22.userapi.com/impg/hUDUqCni-k_8xKXQnosuaZ_nYPVDhfvU1E-1vg/JhNi-v4yNGo.jpg?size=464x350&quality=95&sign=b2e6826eda464ac9eabca69551cdefa1&type=album"  style="width: 2%"> 
 		   <a href="mailto:serzhxarin@yandex.ru">Написать мне письмо</a>
 	     
 	  </p>

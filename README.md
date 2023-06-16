@@ -16,7 +16,7 @@
   
 </div>
   
- <h2>Мои контакты</h2> 
+ <h2 align="left">Мои контакты</h2> 
    
 <div align="left">
 
@@ -29,7 +29,7 @@
   <br/>
   
 
- <h2>Мои навыки</h2> 
+ <h2  align="left" >Мои навыки</h2> 
 <table align="left"><tr><td valign="top" width="33%">
 
 

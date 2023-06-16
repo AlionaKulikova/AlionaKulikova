@@ -69,7 +69,7 @@
 <br/>
 <br/>
 	
- <h2 align="left">Github Stats</h2> 
+ <h2 align="left">Статистика</h2> 
 	
 <table align="left"><tr><td valign="top" width="33%">
 	<div align="left">

@@ -24,7 +24,8 @@
 </a>
  
   <p>
-        <img src="imgs/emails.ico"  width="30" height="30" alt="Отправить"> 
+	  ✉️ 
+
 		   <a href="mailto:kulikovaaliona888@yandex.ru">Написать мне письмо</a>
 	     
 	  </p>
@@ -34,9 +35,7 @@
  
  
  
- <a href="kulikovaaliona888@yandex.ru" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>
+
  
  
  
